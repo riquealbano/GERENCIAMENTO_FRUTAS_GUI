@@ -16,15 +16,15 @@ Projeto apenas para fins de testes e aprendizado sobre a mesclagem de conhecimen
 
 IDE Eclipse
 
-javax.swing.*;
+javax.swing.*
 
-java.awt.*;
+java.awt.*
 
-java.awt.event.ActionEvent;
+java.awt.event.ActionEvent
 
-java.awt.event.ActionListener;
+java.awt.event.ActionListener
 
-java.util.ArrayList;
+java.util.ArrayList
 
 ## 📌 Versão
 
